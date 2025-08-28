@@ -1,0 +1,25 @@
+{
+  "name": "koishi-plugin-deepseek-balance",
+  "description": "查询官方ds余额插件",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nostalgia296",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostalgia296/koishi-plugin-deepseek-balance.git"
+  },
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.18.9"
+  }
+}
